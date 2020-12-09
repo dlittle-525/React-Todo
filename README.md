@@ -81,3 +81,5 @@ Follow these steps for completing your project.
 - [ ] From the home page of your repo, make sure you have your branch selected
 - [ ] Copy the URL and paste it into Canvas to submit your assignment
 Douglas Little
+
+Deployed to Netlifly at https://boring-bhaskara-0902cc.netlify.app
